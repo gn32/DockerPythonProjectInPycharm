@@ -8,6 +8,9 @@ https://github.com/gn32/DockerPythonProjectInPycharm
 ## Python script used -
 To calculate the product of 2 numbers
 
+## Script output in Pycharm -
+https://github.com/gn32/DockerPythonProjectInPycharm/tree/main/Images
+
 
 
 
